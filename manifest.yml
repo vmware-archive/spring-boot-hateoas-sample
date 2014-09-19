@@ -1,7 +1,7 @@
 ---
 applications:
  - name: spring-boot-hateoas
-   memory: 256M
+   memory: 512M
    instances: 1
    buildpack: https://github.com/spring-io/java-buildpack
    path: target/spring-boot-hateoas-sample-1.0.0.jar
